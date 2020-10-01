@@ -1,5 +1,5 @@
-#### Nom&Prenom:Meknassi Hamza
-#### Nom&Prenom:Hammad Mohamed
+#### Nom&Prenom:Meknassi 
+#### Nom&Prenom:Hammad 
 # Quel est le problème que vous allez traiter ?
 
 Nous allons prédir la consomation de gaz et d'éléctricité pour chaque région de France en s'appuyant sur des données réelles depuis 2017 pour tous les départements Français.
